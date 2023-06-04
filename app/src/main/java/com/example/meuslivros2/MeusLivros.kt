@@ -6,6 +6,6 @@ import android.os.Bundle
 class MeusLivros : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_meus_livros)
+        setContentView(R.layout.activity_meus_livros2)
     }
 }

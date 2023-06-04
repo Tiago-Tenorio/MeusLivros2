@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "90269405643",
+    "firebase_url": "https://meuslivros2-a461d-default-rtdb.firebaseio.com",
+    "project_id": "meuslivros2-a461d",
+    "storage_bucket": "meuslivros2-a461d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90269405643:android:7d1fb52e99687c314be64e",
+        "android_client_info": {
+          "package_name": "com.example.meuslivros2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90269405643-bv3li7uuqnuer0nicdijqtd16hkn8tkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7VrkadeNqXl00qXty1PNggg9-QFFNAMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90269405643-bv3li7uuqnuer0nicdijqtd16hkn8tkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
